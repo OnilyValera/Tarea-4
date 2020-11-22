@@ -1,0 +1,13 @@
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\bin\Debug\netcoreapp3.1\PatronFactory_CSharp.exe
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\bin\Debug\netcoreapp3.1\PatronFactory_CSharp.deps.json
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\bin\Debug\netcoreapp3.1\PatronFactory_CSharp.runtimeconfig.json
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\bin\Debug\netcoreapp3.1\PatronFactory_CSharp.runtimeconfig.dev.json
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\bin\Debug\netcoreapp3.1\PatronFactory_CSharp.dll
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\bin\Debug\netcoreapp3.1\PatronFactory_CSharp.pdb
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\obj\Debug\netcoreapp3.1\PatronFactory_CSharp.csprojAssemblyReference.cache
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\obj\Debug\netcoreapp3.1\PatronFactory_CSharp.AssemblyInfoInputs.cache
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\obj\Debug\netcoreapp3.1\PatronFactory_CSharp.AssemblyInfo.cs
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\obj\Debug\netcoreapp3.1\PatronFactory_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\obj\Debug\netcoreapp3.1\PatronFactory_CSharp.dll
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\obj\Debug\netcoreapp3.1\PatronFactory_CSharp.pdb
+C:\Users\Vheysck\source\repos\PatronFactory_CSharp\PatronFactory_CSharp\obj\Debug\netcoreapp3.1\PatronFactory_CSharp.genruntimeconfig.cache
