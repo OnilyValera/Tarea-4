@@ -1,0 +1,13 @@
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.csprojAssemblyReference.cache
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.AssemblyInfoInputs.cache
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.AssemblyInfo.cs
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.exe
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.deps.json
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.runtimeconfig.json
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.runtimeconfig.dev.json
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.dll
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\bin\Debug\netcoreapp3.1\PatronSingleton_CSharp.pdb
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.dll
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.pdb
+C:\Users\Vheysck\source\repos\PatronSingleton_CSharp\PatronSingleton_CSharp\obj\Debug\netcoreapp3.1\PatronSingleton_CSharp.genruntimeconfig.cache
